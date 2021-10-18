@@ -1,0 +1,13 @@
+div > p:nth-last-of-type(1){
+    border: solid 4px red;
+    font-size: 50px;
+    font-family: 'Futura-Normal', arial;
+    text-align: center;
+    font-style: normal;
+
+}
+@font-face{font-family:futura-normal;
+    font-style:normal;
+    font-weight:400;
+    src:local('Futura-Normal'),local('Futura-Normal-Regular'),url(Futura\ Bold\ Italic\ font.ttf) 
+    format('woff'),url(Futura\ Bold\ Italic\ font.ttf) format('truetype')}
